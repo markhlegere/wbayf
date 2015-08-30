@@ -1,0 +1,42 @@
+{
+  "name": "wbayf",
+  "version": "0.0.0",
+  "authors": [
+    "Mark Legere <markhlegere@gmail.com>"
+  ],
+  "description": "Watertown Belmont Football Website",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "wbayf.football",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.3",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.5",
+    "gold-elements": "PolymerElements/gold-elements#~1.0.1",
+    "platinum-elements": "PolymerElements/platinum-elements#~1.1.1",
+    "neon-elements": "PolymerElements/neon-elements#~1.0.0",
+    "molecules": "PolymerElements/molecules#~1.0.0",
+    "firebase-element": "GoogleWebComponents/firebase-element#^1.0.0",
+    "google-analytics": "GoogleWebComponents/google-analytics#^1.0.0",
+    "google-apis": "GoogleWebComponents/google-apis#^1.0.0",
+    "google-calendar": "GoogleWebComponents/google-calendar#^1.0.0",
+    "google-castable-video": "GoogleWebComponents/google-castable-video#^1.0.0",
+    "google-chart": "GoogleWebComponents/google-chart#^1.0.0",
+    "google-feeds": "GoogleWebComponents/google-feeds#^1.0.0",
+    "google-hangout-button": "GoogleWebComponents/google-hangout-button#^1.0.0",
+    "google-map": "GoogleWebComponents/google-map#^1.0.0",
+    "google-sheets": "GoogleWebComponents/google-sheets#^1.0.1",
+    "google-signin": "GoogleWebComponents/google-signin#^1.0.0",
+    "google-streetview-pano": "GoogleWebComponents/google-streetview-pano#^1.0.0",
+    "google-url-shortener": "GoogleWebComponents/google-url-shortener#^1.0.0",
+    "google-youtube": "GoogleWebComponents/google-youtube#^1.1.0",
+    "google-youtube-upload": "GoogleWebComponents/google-youtube-upload#^1.0.0"
+  }
+}
